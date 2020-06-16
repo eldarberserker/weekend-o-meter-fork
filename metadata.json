@@ -1,0 +1,11 @@
+{
+  "name": "Weekend-O-Meter",
+  "description": "Beer timer until next week-end, based on weekendometer@siilia.fr",
+  "uuid": "weekendometer@odin.berserk.cl",
+  "shell-version": [
+    "3.34"
+  ],
+  "original-authors": [
+    "jul@siilia.fr"
+  ]
+}
